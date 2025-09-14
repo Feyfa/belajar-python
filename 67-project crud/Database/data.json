@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "penulis": "Budi Raharjo",
+        "judul": "Kursus Mandiri PHP",
+        "tahun": "2019"
+    },
+    {
+        "id": 5,
+        "penulis": "Windah Basudara",
+        "judul": "Tutorial Main Backroom",
+        "tahun": "2022"
+    },
+    {
+        "id": 6,
+        "penulis": "Pascol",
+        "judul": "Cara Bermain Miya",
+        "tahun": "2020"
+    },
+    {
+        "id": 7,
+        "penulis": "Jess No Limit",
+        "judul": "Tutorial Bermain Gusion",
+        "tahun": "2021"
+    },
+    {
+        "id": 8,
+        "penulis": "Kalimasada",
+        "judul": "CRYPTO TRADING GUIDE",
+        "tahun": "2021"
+    },
+    {
+        "id": 9,
+        "penulis": "Abdul Kadir",
+        "judul": "Belajar Pemrograman Java",
+        "tahun": "2018"
+    }
+]
